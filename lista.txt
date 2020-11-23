@@ -1,0 +1,2 @@
+https://www.caco.ic.unicamp.br/manjaro/stable/core/x86_64/acl-2.2.53-3-x86_64.pkg.tar.zst
+https://www.caco.ic.unicamp.br/manjaro/stable/core/x86_64/acl-2.2.53-3-x86_64.pkg.tar.zst
